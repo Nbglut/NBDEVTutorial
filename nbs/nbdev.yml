@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "NBDEVTutorial"
+  site-url: "https://Nbglut.github.io/NBDEVTutorial"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/Nbglut/NBDEVTutorial"
